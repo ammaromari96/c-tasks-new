@@ -11,6 +11,7 @@ namespace _21_1_2025
         static void Main(string[] args)
         {
             Console.WriteLine("ammar");
+            Console.WriteLine("ammar");
         }
     }
 }
